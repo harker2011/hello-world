@@ -1,2 +1,4 @@
 # hello-world
-First repository
+
+10/9
+Create this account for class: intro. to Computer Networks
